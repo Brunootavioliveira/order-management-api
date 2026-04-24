@@ -196,4 +196,7 @@ Luiz Fernando de Aragão
 Software Engineering Student - FIAP - RM:555561
 
 Marcello Moreira  
-Software Engineering Student - FIAP - RM:RM557531
+Software Engineering Student - FIAP - RM:557531
+
+Leonardo Gonçalves Novaes  
+Software Engineering Student - FIAP - RM:554807
